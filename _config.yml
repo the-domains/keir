@@ -1,0 +1,28 @@
+name: KEIR
+favicon: null
+layout_spectrum: 0.7720495990943164
+typography_spectrum: 0.8502576905302703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8379690502770245
+  lightness: 0.40657145041041076
+  saturation: 0.49519739649258554
+  rhythmicContrast: 0.7838503355160356
+purpose: []
