@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KEIR]]></title>
-        <description><![CDATA[KEIR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Keir Adamson.Drummer.Engineer.Producer.Educator]]></title>
+        <description><![CDATA[Keir Adamson.Drummer.Engineer.Producer.Educator]]></description>
+        <link>https://thegrid.ai/keir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 14:26:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 15:09:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keir/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1866ae81-610b-47fd-afc9-c59f04261b81.png">]]></description>
-            <link>undefined0df836a5-c678-438c-bd5f-ae41b471ca02/index.html</link>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Its finally time for me to proudly release my "geek chic" website. Where you can catch up on all my social doings and musical endeavours from, pop to punk and production to function, whatever way you care to find me its all here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e651a324b7b903e88af745e5a171e8ed76f9a9f8.png"></article>]]></description>
+            <link>https://thegrid.ai/keir/0df836a5-c678-438c-bd5f-ae41b471ca02/index.html</link>
             <guid isPermaLink="false">0df836a5-c678-438c-bd5f-ae41b471ca02</guid>
-            <pubDate>Sat, 09 Jan 2016 14:26:09 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 15:09:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
