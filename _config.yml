@@ -1,7 +1,7 @@
 name: KEIR
 favicon: null
-layout_spectrum: 0.7720495990943164
-typography_spectrum: 0.8502576905302703
+layout_spectrum: 1
+typography_spectrum: 0.46298
 title: Keir Adamson.Drummer.Engineer.Producer.Educator
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#1c1a1b'
+    - '#747474'
+    - '#b6b6b6'
+    - '#505050'
   brandStrength: 0.8379690502770245
-  lightness: 0.40657145041041076
-  saturation: 0.49519739649258554
-  rhythmicContrast: 0.7838503355160356
+  lightness: 0.875
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
